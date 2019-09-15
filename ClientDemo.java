@@ -1,4 +1,4 @@
-\\ YuehChen Tsou and John Singleton
+\\John Singleton and Yuehchen Tsou
 package hw02;
 
 import java.util.Scanner;
