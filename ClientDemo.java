@@ -1,3 +1,4 @@
+\\ YuehChen Tsou and John Singleton
 package hw02;
 
 import java.util.Scanner;
